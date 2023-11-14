@@ -1,3 +1,6 @@
+/* Programa em Go do Padrão Hello World
+ */
+
 package main
 
 import "fmt"
