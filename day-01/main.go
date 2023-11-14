@@ -1,5 +1,6 @@
 /* Programa em Go do Padrão Hello World
- */
+   Simulando correção - Hotfix
+*/
 
 package main
 
