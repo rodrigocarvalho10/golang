@@ -6,7 +6,6 @@ Escreva expressões utilizando os seguintes operadores, e atribua seus valores a
 ° <
 ° >=
 ° >
-° =
 */
 
 package main
